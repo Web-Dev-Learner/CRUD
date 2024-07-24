@@ -1,4 +1,4 @@
-🎉 Excited to share that I have completed a 𝐂𝐑𝐔𝐃 (Create, Read, Update, Delete) application that allows users to manage a list of user records. 🖥️
+🎉 a 𝐂𝐑𝐔𝐃 (Create, Read, Update, Delete) application that allows users to manage a list of user records. 🖥️
 
 𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 
